@@ -1,0 +1,22 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+    padding:0;
+    margin: 0;
+}
+    .Lastpage{
+        padding-left: 10px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+        width: 185vh;
+        height: 70vh;
+        background-color: #141414;
+}
+.updown{
+    display: flex;
+    flex-direction: column;
+}
+.upside{
+    padding-top: 150px;
+}
+.downside{
+    padding-top: 20px;
+}

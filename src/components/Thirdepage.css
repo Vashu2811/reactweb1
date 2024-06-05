@@ -1,0 +1,36 @@
+.Thirdepage{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    width: 185vh;
+    height: 100vh;
+    background-color: #141414;
+}
+.containar{
+    display: flex;
+}
+.leftside{
+    width: 50%;
+}
+.rightside{
+    width: 50%;
+    padding-top: 240px;
+    color: white;
+    padding-left:20px;
+    font-size: 25px;
+}
+.navlinkbottam{
+    padding-top: 20px;
+    text-align: center;
+    padding-left: 450px;
+}
+.sixlinks{
+    display: flex;
+    color: white;
+    font-size: large;
+    padding-top: 20px;
+}
+.li-1{
+   padding-left: 30px;
+   padding-bottom: 10px;
+   list-style: none;
+   cursor: pointer;
+}

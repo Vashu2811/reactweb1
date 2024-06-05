@@ -1,0 +1,14 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+    padding:0;
+    margin: 0;}
+
+.VideoSlide{
+    padding-top: 180px;
+    padding-left: 150px;
+    background-color: #141414;
+}    
+.video-size{
+    border-radius: 30px;
+    border: none;
+}

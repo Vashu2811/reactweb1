@@ -1,0 +1,50 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+    padding:0;
+    margin: 0;
+}
+.photoadd{
+    background-image: url('https://cdn.pixabay.com/photo/2022/09/02/20/03/man-7428290_640.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 400px;
+    width: 280px;
+}
+.textofphoto{
+    padding-top: 30px;
+    font-size: x-large;
+    color: white;
+    font-weight: bold;
+    padding-left: 55px;
+}
+.starimg{
+    padding-top: 20px;
+    width: 50px;
+}
+.starimg-2{
+  padding-left: 20px;
+
+    width: 70px;
+}
+.starimg-3{
+   
+    width: 50px;
+}
+.starimg-4{
+    padding-left: 20px;
+    
+        width: 70px;
+}
+.starimg-5{
+   
+    width: 50px;
+}
+.starimg-6{
+    padding-left: 20px;
+    
+        width: 70px;
+}
+.starimg-7{
+   
+    width: 50px;
+}

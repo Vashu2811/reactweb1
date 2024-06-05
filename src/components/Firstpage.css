@@ -1,0 +1,151 @@
+body{
+  background-image: url("https://www.wallpaperflare.com/static/423/657/225/sunset-man-tip-mountain-wallpaper-preview.jpg");
+  background-repeat: no-repeat ;
+  background-size: 1800px;
+  
+}
+.App-header{
+    margin: 10px;
+  }
+  .header{
+    display: flex;
+    position: fixed;
+  }
+  .grad-button{
+    background-image: linear-gradient();
+  }
+  
+  .logo{
+    width: 50%;
+    padding: 30px;
+  
+  }
+  .App-logo{
+    width: 40px;
+  }
+  .side-link{
+    width: 50%;
+    
+    padding-left: 650px;
+    padding-top: 20px;
+    display: flex;
+  }
+  .get{
+    padding: 30px;
+   
+  }
+  .ytlink{
+    padding: 20px;
+   
+  }
+  .ytlinkk{
+    border-radius: 50%;
+  }
+  .tictoclink{
+    padding: 20px;
+  }
+  .grad-button{
+    padding-left: 10px;
+    border: 0cm;
+    background-image: linear-gradient( to right, #ffb199,#ff0844);
+    border-radius: 20px;
+    font-weight: bold;
+    color: white;
+    font-size: 0.6cm;
+    width: 150px;
+    padding-top: 0;
+    margin-top: 0;
+  }
+  .banner {
+    text-align: center;
+    padding-top:150px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+    font-family: sans-serif;
+  }
+  
+  p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  .buttons{
+    display: flex;
+    padding-left: 200px;
+  }
+  .b-1{
+    
+    padding: 50px;
+  }
+  .b-2{
+    padding: 50px;
+  }
+  .b-3{
+    padding: 50px;
+  }
+  .b-11{
+    text-align: center;
+    width: 250px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.482);
+  }
+  .b-22{
+   text-align: center;
+    width: 250px;
+    height: 70px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.482);
+  }
+  .b-33{
+    text-align: center;
+    width: 250px;
+    height:70px;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.482);
+  }
+  .b-11:hover{
+    border: 3px solid rgba(255, 255, 255, 0.511);
+  }
+  .b-22:hover{
+    border: 3px solid rgba(255, 255, 255, 0.511);
+  }
+  .b-33:hover{
+    border: 3px solid rgba(255, 255, 255, 0.511);
+  }
+  .app-store{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  .google-play{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  .app-gallery{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  .h1{
+  color:white;
+  font-weight: bold;
+  }
+  .diff-text{
+    background: linear-gradient(to right, #ffb199, #ff0844);
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+  }
+  .p-tag{
+    padding-top: 200px;
+    color: white;
+    font-weight: bold;
+  }

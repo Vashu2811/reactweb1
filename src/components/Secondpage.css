@@ -1,0 +1,116 @@
+/* Secondpage */
+
+.Secondpage{
+    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    width: 185vh;
+    height: 60vh;
+    background-color: #141414;
+
+
+    /* padding: 150px; */
+}
+.secondpage-start{
+    padding-top: 200px;
+    padding-left: 100px;
+}
+.mainpage-up{
+    display: flex;
+}
+.right-side{
+    width: 45%;
+    
+}
+.btn-flex{
+    display: flex;
+}
+.btn-1{
+    padding-top: 80px;
+    padding-right: 20px;
+}
+
+.btn-2{
+    padding-top: 10px;
+    padding-right: 20px;
+}
+
+.buttons-line-1{
+    color: white;
+    width: 180px;
+    height: 30px;
+   background-color: #202020;
+    font-size: x-large;
+   border: none;
+    border-radius: 20px;
+}
+.buttons-line-2{
+    color: white;
+    width: 150px;
+    height: 30px;
+   background-color: #202020;
+    font-size: x-large;
+   border: none;
+    border-radius: 20px;
+}
+.buttons-line-3{
+    color: white;
+    width: 250px;
+    height: 30px;
+   background-color: #202020;
+    font-size: x-large;
+   border: none;
+    border-radius: 20px;
+}
+.buttons-line-4{
+    color: white;
+    width: 200px;
+    height: 30px;
+   background-color: #202020;
+    font-size: x-large;
+   border: none;
+    border-radius: 20px;
+}
+.buttons-line-5{
+    color: white;
+    width: 200px;
+    height: 30px;
+   background-color: #202020;
+    font-size: x-large;
+   border: none;
+    border-radius: 20px;
+}
+
+.buttons-line-1:hover {
+    background-color: white;
+  color: black;
+}
+
+.buttons-line-5:hover {
+  background-color: white;
+  color: black;   
+}
+.buttons-line-2:hover {
+    background-color: white;
+  color: black;
+}
+.buttons-line-4:hover {
+    background-color: white;
+    color: black;   
+  }
+
+.buttons-line-3:hover {
+  background-color: white;
+  color: black;   
+}
+.hadding{
+    color: white;
+    padding-bottom: 30px;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.line-3{
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+

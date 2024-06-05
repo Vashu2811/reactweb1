@@ -1,0 +1,49 @@
+*,*::after,*::before{
+    box-sizing: border-box;
+    padding:0;
+    margin: 0;}
+    
+.Fourpage{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    width: 185vh;
+      height: 30vh;
+        background-color: #141414;
+         text-align: center;
+}
+/* .h1-tag-e{
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.fivevideo{
+    display: flex;
+} */
+.exclusive-effect {
+    font-size: 2.5em;
+    color: white;
+    animation: glow 0.5s infinite alternate;
+  }
+  
+  @keyframes glow {
+    from {
+      text-shadow: 0 0 5px black;
+    }
+    to {
+      text-shadow: 0 0 10px #ff00ff;
+    }
+  }
+  
+  .video-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  video {
+    width: 280px; /* Adjust the width as needed */
+    height: auto;
+    border-radius: 10px;
+    border: none;
+
+  }
